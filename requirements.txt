@@ -1,0 +1,7 @@
+# Paste to requirements.txt
+flask
+google-generativeai
+pillow
+PyMuPDF
+python-docx
+importlib-metadata
